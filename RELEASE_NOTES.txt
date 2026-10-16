@@ -1,0 +1,26 @@
+STARFRONT: TACTICAL COMMAND - VERSION 1.0 FINAL
+By John Chirillo | 1984 Edition | New release: October 2026
+
+
+CONTENTS
+STARFRONT.PRG   Standard tokenized Commodore BASIC V2 program
+STARFRONT.D64   Standard 35-track 1541 disk image, one PRG file
+STARFRONT.BAS   Human-readable BASIC V2 source
+PLAYER_MANUAL.txt     Period-inspired player handbook
+QUICK_REFERENCE.txt   Command card
+RELEASE_NOTES.txt     This file
+DISK_LABEL.txt       Printable label wording
+SHA256SUMS.txt        Integrity checksums
+
+DISK INFORMATION
+35 tracks; 683 sectors; 174,848 bytes. Disk file STARFRONT (PRG),
+94 data sectors, standard 1541 directory and BAM.
+Disk file chain was independently re-read and compared to STARFRONT.PRG.
+
+VALIDATION
+RC1: 10/10 user VICE tests passed, including full campaign and restart.
+Final: ZIP, disk directory, allocation map and PRG byte comparison passed.
+A fresh end-to-end VICE boot from D64 and physical hardware test are
+not yet performed; those are recommended before external distribution.
+
+Disk image correction: Standard CBM directory entry offsets repaired; the PRG executable is unchanged.

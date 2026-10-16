@@ -12,32 +12,51 @@ Command the star cruiser **Vanguard** in the year 2387. Explore an uncharted fro
 
 Built entirely in **Commodore 64 BASIC V2**, STARFRONT features tactical space combat, dynamic missions, crew reports, a Captain's Log, PETSCII graphics, and an original SID soundtrack.
 
+Designed with the spirit and technical limitations of the original Commodore 64, STARFRONT captures the experience of discovering a forgotten game from computing's golden age.
+
 **A lost game from 1984. Found, restored, and updated for a new generation in 2026.**
 
 *Created by John Chirillo.*
 
+![STARFRONT game screenshots](starfront-github-banner.png)
+
 ## Play
 
-Download the V1.0 package and open the corrected `STARFRONT.D64` in the VICE Commodore 64 emulator, attached to drive 8. At the READY prompt enter:
+1. Open the **VICE Commodore 64 emulator**.
+2. Attach `STARFRONT.D64` to drive 8.
+3. At the `READY.` prompt, type:
 
 ```basic
 LOAD "STARFRONT",8
 RUN
 ```
 
-Alternatively load `STARFRONT.PRG` directly in VICE.
+Alternatively, load `STARFRONT.PRG` directly in VICE.
 
-## Features
+## Screenshots from the actual game
 
-- 6×6 galaxy map, warp navigation and exploration
-- Tactical combat, subsystem targeting, animated weapons and SID sound effects
-- Dynamic missions with deadlines, rewards and colony support
-- Ship damage, repairs and resupply
-- Crew reports and Captain's Log
-- Original looping SID title theme
+| Title | Sector chart |
+|---|---|
+| ![Title screen](title-screen.png) | ![Sector chart](sector-chart.png) |
+| Tactical combat | Chief engineer |
+| ![Combat](tactical-combat.png) | ![Chief engineer](chief-engineer.png) |
 
-## Source and license
+## Download contents
 
-The game is written in Commodore 64 BASIC V2. Source and downloadable game files are being added to this repository.
+- `STARFRONT.D64` — Commodore 1541 disk image, corrected and user-tested in VICE
+- `STARFRONT.PRG` — tokenized BASIC V2 executable
+- `STARFRONT.BAS` — BASIC source listing
+- `PLAYER_MANUAL.txt` and `QUICK_REFERENCE.txt` — gameplay documentation
+- `RELEASE_NOTES.txt` — development notes
+- `SHA256SUMS.txt` — original distribution hashes
 
-Software is licensed under the [MIT License](LICENSE). Copyright (c) 2026 John Chirillo.
+## Technical notes
+
+The program is built for standard Commodore 64 BASIC V2 and uses SID sound and PETSCII display techniques. The V1.0 release candidate passed ten VICE gameplay tests, and the corrected disk image subsequently loaded successfully in VICE. Original hardware testing is welcome.
+
+
+## Rights and contributions
+
+Copyright © 2026 John Chirillo. The title-screen `(C) 1984` is part of the period-inspired presentation. The source code and original project materials are released under the **MIT License** (see `LICENSE`). You may use, modify, and redistribute them under its terms, including preserving the copyright and permission notice.
+
+This is an independently created game for the Commodore 64 platform and is not affiliated with Commodore or its trademark holders.

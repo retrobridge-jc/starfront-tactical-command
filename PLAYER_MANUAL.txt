@@ -1,0 +1,66 @@
+STARFRONT: TACTICAL COMMAND
+THE 1984 EDITION - PLAYER HANDBOOK
+BY JOHN CHIRILLO
+
+A FRONTIER COMMAND TRANSMISSION
+YEAR 2387. The Vanguard patrols a six-by-six sector of the frontier.
+Array warships threaten colonies and vital supply routes. Your orders:
+protect the frontier, complete assignments, and bring your ship home.
+
+LOADING FROM THE 1541 DISK
+Insert STARFRONT.D64 into drive 8 in VICE, or write the image to a
+compatible physical or modern C64 disk device. At the READY prompt:
+  LOAD "STARFRONT",8
+  RUN
+The disk contains a standard BASIC PRG file, not a machine-code loader.
+Alternatively load STARFRONT.PRG directly in VICE or on a C64.
+
+TITLE SCREEN
+Original SID music plays while the title screen is displayed.
+Press M to mute or restore the theme; press any other key to start.
+
+COMMAND BRIDGE
+1 MAP      Survey the 6x6 frontier
+2 WARP     Move N/S/W/E (8 energy, 1 day)
+3 SCAN     Inspect nearby sectors (3 energy)
+4 BATTLE   Engage enemies in your sector
+5 DOCK     Resupply at a colony (2 days)
+6 STATUS   Review ship and mission status
+7 HELP     Read onboard instructions
+8 SHIP     Crew reports and Captain's Log
+9 REPAIR   Emergency damage control
+
+TACTICAL CONSOLE
+1 BEAM: 12 energy per shot
+2 TORPEDO: expend one torpedo
+3 BRACE: defensive action, costs 5 energy
+4 DISENGAGE: attempt to leave combat
+5 TARGET SCAN: inspect hostile condition
+6 AIM SYSTEM: target hull, weapons, engines or shields
+
+GALAXY KEY
+V Vanguard; M mission; C colony; ! distress; ? unexplored.
+Numbers mark hostile contacts in explored sectors.
+
+FRONTIER COMMAND MISSIONS
+RECON: reach the objective and scan.
+INTERCEPT: destroy the hostile contacts at the objective.
+DELIVERY: reach the assigned colony and dock.
+Watch mission deadlines. Rewards and penalties affect your campaign.
+
+THE VANGUARD CREW
+Command 8 provides Engineering, Navigation, Tactical and Captain's
+Recommendation reports. The Captain's Log holds six recent events.
+Consulting reports costs no energy or days.
+
+CAPTAIN'S NOTES
+Save energy for emergencies. Repair disabled engines before warping
+and damaged sensors before reconnaissance. Torpedoes are precious.
+Dock whenever possible to replenish your ship. A campaign is won
+by defeating the Array fleet before the 45-day limit.
+
+HISTORICAL NOTE
+STARFRONT was lost in 1984, found and revamped and released in 2026.
+The software uses original C64-era BASIC V2, PETSCII and SID methods.
+VICE playtesting passed all ten RC1 checks; physical 1984-era hardware
+compatibility has not been independently confirmed.
