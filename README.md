@@ -2,8 +2,6 @@
 
 ## Lost in 1984. Rediscovered in 2026.
 
-*Some games are forgotten. Others are waiting to be discovered.*
-
 Imagine a Commodore 64 strategy game created in 1984, tucked away on a floppy disk, and forgotten for more than four decades.
 
 **STARFRONT: TACTICAL COMMAND** brings that lost-game experience to life.
@@ -11,8 +9,6 @@ Imagine a Commodore 64 strategy game created in 1984, tucked away on a floppy di
 Command the star cruiser **Vanguard** in the year 2387. Explore an uncharted frontier, defend human colonies, engage hostile warships, manage your ship's systems, and lead your crew against a growing threat known as the Array.
 
 Built entirely in **Commodore 64 BASIC V2**, STARFRONT features tactical space combat, dynamic missions, crew reports, a Captain's Log, PETSCII graphics, and an original SID soundtrack.
-
-Designed with the spirit and technical limitations of the original Commodore 64, STARFRONT captures the experience of discovering a forgotten game from computing's golden age.
 
 **A lost game from 1984. Found, restored, and updated for a new generation in 2026.**
 
@@ -57,6 +53,6 @@ The program is built for standard Commodore 64 BASIC V2 and uses SID sound and P
 
 ## Rights and contributions
 
-Copyright © 2026 John Chirillo. The title-screen `(C) 1984` is part of the period-inspired presentation. The source code and original project materials are released under the **MIT License** (see `LICENSE`). You may use, modify, and redistribute them under its terms, including preserving the copyright and permission notice.
+The source code and original project materials are released under the **MIT License** (see `LICENSE`). You may use, modify, and redistribute them under its terms, including preserving the copyright and permission notice.
 
 This is an independently created game for the Commodore 64 platform and is not affiliated with Commodore or its trademark holders.
