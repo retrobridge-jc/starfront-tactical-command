@@ -17,10 +17,4 @@ DISK INFORMATION
 94 data sectors, standard 1541 directory and BAM.
 Disk file chain was independently re-read and compared to STARFRONT.PRG.
 
-VALIDATION
-RC1: 10/10 user VICE tests passed, including full campaign and restart.
-Final: ZIP, disk directory, allocation map and PRG byte comparison passed.
-A fresh end-to-end VICE boot from D64 and physical hardware test are
-not yet performed; those are recommended before external distribution.
-
 Disk image correction: Standard CBM directory entry offsets repaired; the PRG executable is unchanged.
