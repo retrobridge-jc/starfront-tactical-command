@@ -8,7 +8,7 @@ Imagine a Commodore 64 strategy game created in 1984, tucked away on a floppy di
 
 Command the star cruiser **Vanguard** in the year 2387. Explore an uncharted frontier, defend human colonies, engage hostile warships, manage your ship's systems, and lead your crew against a growing threat known as the Array.
 
-Built entirely in **Commodore 64 BASIC V2**, STARFRONT features tactical space combat, dynamic missions, crew reports, a Captain's Log, PETSCII graphics, and an original SID soundtrack.
+Built entirely in **Commodore 64 BASIC V2**, STARFRONT features tactical space combat, dynamic missions, crew reports, a Captain's Log, PETSCII graphics, and an original SID soundtrack. Classic text-based space strategy games, particularly the original Star Trek computer game, helped establish the idea of commanding a starship through decisions rather than elaborate graphics.
 
 **A lost game from 1984. Found, restored, and updated for a new generation in 2026.**
 
